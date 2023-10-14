@@ -13,7 +13,7 @@ y = ionosphere.data.targets
   
 # variable information 
 #print(ionosphere.variables)
-#print(ionosphere.data.features) 
+# print(ionosphere.data.features) 
 #print(ionosphere.data.targets)
 
 #for col in range(y.shape[0]):
